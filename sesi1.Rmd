@@ -1,6 +1,6 @@
 ---
 title: "Peran Pemasaran dalam Perusahaan dan Masyarakat"
-subtitle: "Inisiasi 1"
+subtitle: "SESI 1"
 author: "Tedy Herlambang"
 institute: ""
 date: "`r Sys.Date()`"
