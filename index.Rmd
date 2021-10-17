@@ -118,14 +118,14 @@ Peran pemasaran dalam perusahaan dan masyarakat, proses manajemen pemasaran dan 
 <div class="my-footer"><span>bangtedy.github.io</span></div>
 # Rancangan Aktivitas Tutorial:
 
-- [Inisiasi 1: Peran Pemasaran dalam Perusahaan dan Masyarakat](https://bangtedy.github.io/manajemenpemasaran/sesi1#1)
-- [Inisiasi 2: Perumusan Strategi pemasaran](https://bangtedy.github.io/manajemenpemasaran/inisiasi1#1)
-- [Inisiasi 3: Segmentasi Pasar, Penargetan Pasar dan Pemosisian](https://bangtedy.github.io/manajemenpemasaran/inisiasi1#1)
-- [Inisiasi 4: Menganalisis Perlakuan Konsumen](https://bangtedy.github.io/manajemenpemasaran/inisiasi1#1)
-- [Inisiasi 5: Pengelolaan produk dan pengembangan produk baru ](https://bangtedy.github.io/manajemenpemasaran/inisiasi1#1)
-- [Inisiasi 6: Strategi penetapan harga](https://bangtedy.github.io/manajemenpemasaran/inisiasi1#1)
-- [Inisiasi 7: Strategi  Distribusi](https://bangtedy.github.io/manajemenpemasaran/inisiasi1#1)
-- [Inisiasi 8: Strategi Promosi dan Periklanan](https://bangtedy.github.io/manajemenpemasaran/inisiasi1#1)
+- [Sesi 1: Peran Pemasaran dalam Perusahaan dan Masyarakat](https://bangtedy.github.io/manajemenpemasaran/sesi1#1)
+- [Sesi 2: Perumusan Strategi pemasaran](https://bangtedy.github.io/manajemenpemasaran/Sesi2#1)
+- [Sesi 3: Segmentasi Pasar, Penargetan Pasar dan Pemosisian](https://bangtedy.github.io/manajemenpemasaran/Sesi3#1)
+- [Sesi 4: Menganalisis Perlakuan Konsumen](https://bangtedy.github.io/manajemenpemasaran/Sesi4#1)
+- [Sesi 5: Pengelolaan produk dan pengembangan produk baru ](https://bangtedy.github.io/manajemenpemasaran/Sesi5#1)
+- [Sesi 6: Strategi penetapan harga](https://bangtedy.github.io/manajemenpemasaran/Sesi6#1)
+- [Sesi 7: Strategi  Distribusi](https://bangtedy.github.io/manajemenpemasaran/Sesi7#1)
+- [Sesi 8: Strategi Promosi dan Periklanan](https://bangtedy.github.io/manajemenpemasaran/Sesi8#1)
 
 
 ---
