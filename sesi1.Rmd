@@ -6,7 +6,7 @@ institute: ""
 date: "`r Sys.Date()`"
 output:
   xaringan::moon_reader:
-    css: ["uwm_nolog.css", "uwm-fonts", "extra_css.css"]
+    css: ["ki_nolog.css", "ki-fonts", "extra_css.css"]
     lib_dir: libs
     nature:
       slideNumberFormat: "%current%"
@@ -56,13 +56,12 @@ layout: true
 <!-- this adds the link footer to all slides, depends on my-footer class in css-->
 ---
 
-#  LUARAN PEMBELAJARAN
-
+##  LUARAN PEMBELAJARAN
 Setelah mempelajari bab ini, mahasiswa diharapkan dapat: 
 - Menjelaskan peran pemasaran yang dilakukan oleh manajer pemasaran dalam perusahaan dan oleh pemasar dalam masyarakat yang berada di lingkungan yang terus
 berubah.
 
-####  Lebih khusus lagi: mahasiswa diharapkan dapat menjelaskan:
+####  Lebih khusus lagi, mahasiswa diharapkan dapat menjelaskan:
 1. Pengertian pemasaran dari segi sosial;
 2. Pengertian pemasaran dari segi manajerial;
 3. Peran pemasaran dalam perusahaan;

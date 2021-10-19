@@ -6,7 +6,7 @@ institute: ""
 date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
-    css: ["uwm_nolog.css", "uwm-fonts", "extra_css.css"]
+    css: ["ki_nolog.css", "ki-fonts", "extra_css.css"]
     lib_dir: libs
     nature:
       highlightStyle: github
@@ -68,8 +68,6 @@ Memberikan gambaran tentang bagaimana sebuah perusahaan berupaya mencapai tujuan
 
 ---
 
-<div class="my-footer"><span>bangtedy.github.io</span></div>
-
 # Capaian Pembelajaran:
 
 Membekali mahasiswa dengan pengetahuan tentang prinsip-prinsip manajemen pemasaran dan proses manajemen pemasaran, sehingga dapat digunakan untuk merencanakan, melaksanakan, menganalisis, dan mengevaluasi kegiatan pemasaran pada kehidupan bisnis. 
@@ -79,8 +77,6 @@ Membekali mahasiswa dengan pengetahuan tentang prinsip-prinsip manajemen pemasar
 Peran pemasaran dalam perusahaan dan masyarakat, proses manajemen pemasaran dan strategi pemasaran, perilaku konsumen dalam pengambilan keputusan pembelian, pengelolaan produk dan pengembangan produk baru, segmentasi pasar, penentuan pasar sasaran, dan pemosisian produk, daur hidup produk, strategi penetapan harga, strategi distribusi, dan strategi promosi dan periklanan. 
 
 ---
-
-<div class="my-footer"><span>bangtedy.github.io</span></div>
 
 # Strategi Tutorial
 - Mahasiswa belajar aktif, 
@@ -94,8 +90,6 @@ Peran pemasaran dalam perusahaan dan masyarakat, proses manajemen pemasaran dan 
 
 ---
 
-<div class="my-footer"><span>bangtedy.github.io</span></div>
-
 # `r fa("book-open", fill = "yellow")` Belajar Mandiri
 - Belajar mandiri dalam banyak hal ditentukan oleh kemampuan belajar secara efisien dan efektif. 
 - Kemampuan belajar bergantung pada kecepatan membaca dan kemampuan memahami isi bacaan. 
@@ -103,7 +97,7 @@ Peran pemasaran dalam perusahaan dan masyarakat, proses manajemen pemasaran dan 
 - Mahasiswa juga dituntut untuk dapat mengatur waktunya dengan efisien, sehingga dapat belajar secara teratur berdasarkan jadwal belajar yang ditentukan sendiri.
 
 ---
-<div class="my-footer"><span>bangtedy.github.io</span></div>
+
 # `r fa("book-open", fill = "yellow")` Cara Mempelajari Modul
 - Mempelajari tinjauan mata kuliah
 - Membaca sepintas, kemudian mengulangi dengan lebih cermat
@@ -115,7 +109,7 @@ Peran pemasaran dalam perusahaan dan masyarakat, proses manajemen pemasaran dan 
 - Aktif berdiskusi pada saat kegiatan tutorial
 
 ---
-<div class="my-footer"><span>bangtedy.github.io</span></div>
+
 # Rancangan Aktivitas Tutorial:
 
 - [Sesi 1: Peran Pemasaran dalam Perusahaan dan Masyarakat](https://bangtedy.github.io/manajemenpemasaran/sesi1#1)
