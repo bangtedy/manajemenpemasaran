@@ -1,6 +1,6 @@
 ---
-title: "Peran Pemasaran dalam Perusahaan dan Masyarakat"
-subtitle: "Inisiasi 2"
+title: "Perumusan Strategi Pemasaran"
+subtitle: "Sesi 2"
 author: "Tedy Herlambang"
 institute: ""
 date: "`r Sys.Date()`"
@@ -53,33 +53,147 @@ layout: true
 
 ---
 
-class: middle
-
-##  `r fa("chevron-right", fill = "yellow")` LUARAN PEMBELAJARAN
-
-Setelah mempelajari bab ini, mahasiswa diharapkan dapat:
-
-Menjelaskan peran pemasaran yang dilakukan oleh manajer pemasaran dalam perusahaan
-dan oleh pemasar dalam masyarakat yang berada di lingkungan yang terus
-berubah.
-
-Lebih khusus lagi: mahasiswa diharapkan dapat menjelaskan:
-1. pengertian pemasaran dari segi sosial;
-2. pengertian pemasaran dari segi manajerial;
-3. peran pemasaran dalam perusahaan;
-4. Konsep Pemasaran sebagai panduan filosofis dan praktis;
-5. tanggung jawab manajer pemasaran dalam perusahaan;
-6. peran pemasaran dalam masyarakat;
-7. tanggung jawab sosial;
-8. dimensi-dimensi tanggung jawab perusahaan;
-9. konsumerisme;
-10. pemasaran dalam lingkungan yang berubah.
+# Pendahuluan
+Modul kedua ini membahas: 
+- Uraian tentang berbagai macam tugas manajemen pemasaran dalam lingkungan yang sudah berubah
+- Tahapan proses penyampaian nilai yang bermula dari penganalisisan pasar sampai dengan pengendalian pemasaran.
+- Langkah-langkah penting yang harus dilakukan oleh seorang manajer pemasaran dalam merumuskan strategi pemasaran.
 
 ---
-# `r fa("chevron-right", fill = "yellow")` Header level 1
-## `r fa("chevron-right", fill = "yellow")` Header level 2
-### `r fa("angle-double-right", fill = "blue")` Header level 3
-#### `r fa("angle-double-right", fill = "blue")` Header level 4
+
+# Capaian Pembelajaran
+Setelah mempelajari modul ini diharapkan Anda dapat menjelaskan:
+1. tugas-tugas manajemen pemasaran dalam kondisi bisnis yang sudah berubah;
+2. proses penyampaian nilai;
+3. strategi pemasaran;
+4. pengembangan strategi pemasaran.
+
+---
+## Tugas utama manajer pemasaran
+
+- Mendapatkan pelanggan atau konsumen.
+- Mempertahankan pelanggan seumur hidup.
+- Menanggapi perubahan lingkungan termasuk persaingan.
+
+> Tugas manajer pemasaran itu tidaklah sederhana, dimulai jauh sebelum produk itu dibuat dan …
+
+> Tidak akan berakhir sampai produknya terjual.
+
+---
+
+## Rincian Tugas Manajer Pemasaran
+.pull-left[
+- Mengidentifikasi kebutuhan dan keinginan konsumen.
+- Mengembangkan suatu konsep tentang suatu produk
+- Mengadakan pengujian terhadap kecocokan konsep produk
+- Membuat desain produk.
+- Merancang kemasan merek.
+- Menetapkan harga
+]
+
+.pull-right[
+- Mengatur distribusi.
+- Menciptakan komunikasi pemasaran
+- Memeriksa penjualan.
+- Memperhatikan dan memenuhi kepuasan konsumen.
+- Membangun merek yang kuat.
+- Menciptakan pertumbuhan jangka panjang.
+]
+---
+
+## Kesimpulannya, seorang manajer berfungsi sebagai:
+- peneliti
+- psikolog
+- sosiolog
+- ekonom
+- komunikator
+- ahli hukum
+- bahkan antropolog
+- ADA LAGI?
+
+---
+
+## PENYEBAB PERUBAHAN DALAM PEMASARAN
+
+.pull-left[
+- Teknologi
+- Globalisasi
+- Deregulasi
+- Privatisasi
+- Pembedayaan pelanggan
+- Customisasi
+]
+
+.pull-right[
+- Persaingan ketat
+- Konvergensi industry
+- Transformasi ritel
+- Disintermediasi
+]
+
+---
+
+## PERUBAHAN DALAM MANAJEMEN PEMASARAN
+
+- Dari bagian pemasaran melakukan pemasaran ke setiap orang melakukan pemasaran.
+- Dari pengorganisasian berdasar produk ke pengorganisasian berdasar segmen pelanggan.
+- Dari membuat segalanya ke membeli barang dan jasa lebih banyak dari pihak luar.
+- Dari menggunakan banyak pemasok ke bekerja dengan lebih sedikit pemasok dalam kerangka kemitraan.
+
+---
+
+## PERUBAHAN DALAM MANAJEMEN PEMASARAN (lanjutan)
+- Dari penekanan pada posisi pasar lama ke pasar baru yang belum terliput.
+- Dari penekanan pada aset kentara ke penekanan pada aset tidak kentara.
+- Dari membangun merek melalui periklanan ke membangun merek melalui kinerja dan komunikasi terpadu.
+- Dari menarik pelanggan melalui toko dan tenaga penjualan ke penyediaan produk secara online.
+
+---
+
+class: middle, center
+
+```{r out.width = '80%', echo=FALSE}
+knitr::include_graphics("img/keadaan-permintaan-dan-tugas-pemasarannya.png")
+```
+
+---
+
+class: middle, center
+
+```{r out.width = '50%', echo=FALSE}
+knitr::include_graphics("img/proses-perencanaan-strategis.png")
+```
+
+---
+class: middle, center
+
+```{r out.width = '50%', echo=FALSE}
+knitr::include_graphics("img/tujuan-strategi-taktik.png")
+```
+---
+
+class: middle, center
+
+```{r out.width = '80%', echo=FALSE}
+knitr::include_graphics("img/elemen-strategi-pemasaran.png")
+```
+
+---
+
+class: middle, center
+
+```{r out.width = '80%', echo=FALSE}
+knitr::include_graphics("img/strategi-bauran-pemasaran.png")
+```
+---
+
+## Latihan
+
+1. Cukup banyak tugas manajer pemasaran. Salah satu tugas utamanya adalah mengatur permintaan. Bagaimanakah seorang manajer pemasaran mengatur permintaan?
+2. Uraikan tahap-tahap dalam proses manajemen pemasaran!
+3. Apakah yang dimaksud dengan strategi pemasaran dan bagaimana
+perumusannya?
+
 ---
 
 class: inverse, right, middle
