@@ -6,7 +6,7 @@ institute: ""
 date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
-    css: ["ki_nolog.css", "ki-fonts", "extra_css.css"]
+    css: ["useR_nolog.css", "uwm-fonts", "extra_css.css"]
     lib_dir: libs
     nature:
       highlightStyle: github
@@ -132,7 +132,6 @@ Peran pemasaran dalam perusahaan dan masyarakat, proses manajemen pemasaran dan 
 ---
 class: inverse, right, middle
 
-<img class= "circle" src="https://github.com/bangtedy.png" width="150px"/>
 
 ### Matur nuwun `r fa("smile-beam", fill = "gold")`, find me at...
 
