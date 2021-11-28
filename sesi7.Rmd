@@ -1,0 +1,224 @@
+---
+title: Tedy Herlambang/manajemenpemasaran
+output:
+  xaringan::moon_reader:
+    chakra: libs/remark-latest.min.js
+  #  self_contained: TRUE
+    includes:
+      in_header: conf/style-header.html
+    lib_dir: libs
+    seal: false
+    css: ["default", "conf/css/style.css", "conf/css/fonts.css"]
+    nature:
+      beforeInit: ["conf/js/gifffer.min.js", "conf/js/style-macros.js"]
+      ratio: 16:9
+---
+
+```{r setup, echo = F}
+knitr::opts_chunk$set(
+  comment = "#",
+  #cache = TRUE,
+  collapse = TRUE,
+  warning = FALSE,
+  message = FALSE,
+  fig.width = 7,
+  fig.height = 5.25,
+  fig.align = 'center',
+  fig.retina = 3
+)
+
+# base plot layout
+mypar = list(mar = c(3,3,0.5,0.5), mgp = c(1.5, 0.3, 0), tck = -.008)
+
+# xaringan Extra
+xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons"))
+xaringanExtra::use_extra_styles(
+  hover_code_line = TRUE,         #<<
+  mute_unhighlighted_code = TRUE  #<<
+)
+xaringanExtra::use_editable(expires = 1)
+xaringanExtra::use_panelset()
+xaringanExtra::use_scribble()
+```
+class: middle, title-slide
+
+<!-- top logo (comment to remove or edit on `conf/css/style.css:23`) -->
+<div class="lab-logo"></div>
+<!-- <div class="uni-logo"></div> -->
+
+# Strategi Distribusi
+<hr width="100%" align="left" size="0.3" color="yellow"></hr>
+## <span style="color:gold">Manajemen Pemasaran Sesi 7</span>
+### Tedy Herlambang .small[<br>]
+
+<br><br><br><br><br>
+[<i class="fas fa-blog" style="color:#e7e8e2"></i> bangtedy.github.io](https://bangtedy.github.io)
+
+[<i class="fa fa-twitter fa-lg" style="color:#e7e8e2"></i> @t_hlb](https://twitter.com/t_hlb)
+---
+Pokok-Pokok Materi Modul 8:
+1. konsep saluran distribusi
+2. alasan-alasan penggunaan perantara
+3. berbagai alternatif saluran distribusi
+4. pemilihan dan pengendalian saluran distribusi
+5. model keputusan distribusi yang dapat dijadikan alternatif strategi dalam menyampaikan produk kepada pelanggan. 
+
+Setelah mempelajari modul ini, diharapkan Anda mampu mampu menganalisis
+perencanaan dan pengendalian saluran distribusi sebagai salah satu tugas
+manajemen pemasaran. 
+
+Lebih khusus lagi, setelah mempelajari modul ini diharapkan Anda dapat:
+
+1. menjelaskan konsep saluran distribusi;
+2. menjelaskan alasan-alasan penggunaan perantara;
+3. menjelaskan berbagai alternatif saluran distribusi;
+4. menganalisis pemilihan dan pengendalian saluran distribusi;
+5. menganalisis model keputusan distribusi yang dapat dijadikan alternatif
+strategi dalam menyampaikan produk kepada pelanggan.
+
+---
+# PENDAHULUAN
+
+- Marketing channels, or channels of distribution, collectively comprise the third P or third marketing mix tool—place. 
+- Marketers in every organization must design, develop, and manage the channels through which their products and services move from their point of production to the hands of the final customer. 
+- Some products, like software, move electronically while others, like clothing, furniture, and cars, move physically. 
+- Sometimes a firm’s overall success can depend on how well it designs its channels or how well it manages them compared with its competitors. 
+---
+
+# APAKAH YANG DIMAKSUD DENGAN SALURAN DISTRIBUSI?
+
+> a set of interdependent organizations that help make a product or service available for use or consumption by the consumer or business customer
+
+- Suatu rate atau jalur dalam bentuk jaringan yang dapat melibatkan lembaga-lembaga lain di luar produsen untuk mencapai jalinan hubungan dengan konsumen
+- Obyek dalam saluran distribusi ini tidak hanya berupa barang tetapi juga dapat berupa jasa, atau kombinasi antara barang dan jasa
+- Lembaga yang terlibat: sebagian yang ikut memiliki produk dan sebagian yang lain tidak
+
+
+---
+# Members of the marketing channel perform many key functions
+
+- Information: Gathering and distributing information about consumers, producers and other actors and forces in the marketing environment needed for planning and aiding exchange.  
+- Promotion: Developing and spreading persuasive communications about an offer.  
+- Contact: Finding and engaging customers and prospective buyers.  
+- Matching: Shaping offers to meet the buyer’s needs, including activities such as manufacturing, grading, assembling and packaging.
+- Negotiation: Reaching an agreement on price and other terms so that ownership or possession can be transferred.   
+- Physical distribution: Transporting and storing goods.  
+- Financing: Acquiring and using funds to cover the costs of the channel work.  
+- Risk taking: Assuming the risks of carrying out the channel work.
+- After-sales support: Some products, such as electronics and automobiles, require after-sales support and servicing.
+
+
+---
+Class: center, middle
+
+> Marketing channels don’t happen by themselves; rather, they must be built to meet strategic business goals, then continually managed. 
+
+---
+# Why do producers give some of the selling job to intermediaries?
+
+- Doing so means giving up some control over how and to whom they sell their products ...BUT
+
+- Intermediaries create greater efficiency in making goods available to target markets.
+- Through their contacts, experience, specialisation and scale of operation, intermediaries usually offer the firm more than it can achieve on its own.  
+
+
+---
+# MENGELOLA SALURAN PEMASARAN
+
+- Mengelola saluran pemasaran dengan baik akan memudahkan
+pencapaian tujuan pemasaran.
+- Manajemen saluran merupakan pengadministrasian saluran-
+saluran yang ada untuk menjamin kerja sama para anggota
+saluran dalam mencapai tujuan distribusi perusahaan.
+- Tiga unsur pokok:
+  - saluran yang ada, 
+  - menjamin kerja sama anggota saluran
+  - tujuan distribusi
+
+---
+
+# Mengelola motivasi 
+- Aspek penting dan mendasar dalam manajemen saluran
+- Mengelola motivasi mencakup tiga hal pokok:
+  1. Mengidentifikasi kebutuhan dan masalah para anggota saluran.
+  2. Menawarkan dukungan kepada anggota saluran sesuai dengan kebutuhan
+dan masalah yang dihadapinya.
+  3. Memberikan kepemimpinan melalui pendayagunaan yang efektif.
+
+---
+# TREN YANG BERDAMPAK PADA MANAJEMEN SALURAN
+1. Semakin pentingnya kekuatan saluran. 
+2. Munculnya konsep pengeceran yang baru, seperti pengecer yang
+menawarkan produknya melalui katalog.
+3. Semakin diutamakan pengembangan strategi saluran sebagai alat untuk
+mencapai keunggulan kompetitif.
+4. Pertumbuhan kemitraan (*partnership*) dan aliansi strategis. 
+5. Pengembangan pemasaran langsung (*direct marketing*). 
+6. Meningkatnya produktivitas distribusi.
+7. E-commerce  has  become  firmly  established  as  more companies  have  adopted  “brick-and-click”  channel  systems.
+8. M-commerce  (selling  via  smart  phones  and tablets) is also gaining in importance.
+9. Some consumers engage in showrooming by which they shop in stores to inspect products but buy online later to seek a lower price.
+
+
+---
+# Channel Conflict, Cooperation, and Competition
+
+- Each channel member plays an important role in the marketing 
+channel, but sometimes disagreements over goals, roles, and rewards among channel 
+members can create what is known as channel conflict.
+- Horizontal conflict occurs among firms that perform the same function at the same 
+level of the channel
+- Vertical conflict, conflict between different levels of the same channel, is even more common
+- Multichannel conflict exists when the manufacturer has established two or more 
+channels that sell to the same market.
+---
+# Causes of Channel Conflict
+- Goal incompatibility
+- unclear roles and rights
+- differences in perception
+- intermediaries’ dependence on the manufacturer
+---
+# Channel Power
+
+> The  ability  to  alter  channel  members’  behaviour  so  they  take  actions  they would  not  have  taken  otherwise
+
+
+---
+# Channel power 
+- Coercive power. A manufacturer threatens to withdraw a resource or terminate a relationship if intermediaries fail to cooperate. 
+- Reward power. The manufacturer offers intermediaries an extra benefit for performing specific acts or functions. 
+- Legitimate power. The manufacturer requests a behavior that is warranted under the contract. 
+- Expert power. The manufacturer has special knowledge the intermediaries value. Once the intermediaries acquire this expertise, however, expert power weakens. 
+- Referent power. The manufacturer is so highly respected that intermediaries are proud to be associated with it. 
+
+> Coercive and reward power are objectively observable; legitimate, expert, and referent power are more subjective and depend on the ability and willingness of parties to recognize them.
+
+---
+# SALURAN DISTRIBUSI BARANG KONSUMEN
+
+1. Produsen – konsumen
+2. Produsen – pengecer – konsumen
+3. Produsen – pedagang besar – pengecer – konsumen
+4. Produsen – agen – pengecer – konsumen
+5. Produsen – agen – pedagang besar – pengecer - konsumen
+
+---
+# SALURAN DISTRIBUSI BARANG INDUSTRIAL
+
+1. Produsen - Pemakai Industrial
+2. Produsen - Distributor Industrial - Pemakai Industrial
+3. Produsen - Agen - Pemakai Industrial 
+4. Produsen - Agen - Distributor Industrial - Pemakai Industrial 
+
+
+---
+
+class: inverse, right, bottom
+
+# Matur nuwun, find me at...
+<hr width="45%" align="right" size="0.3" color="orange"></hr>
+
+[<i class="fa fa-twitter fa-lg" style="color:#e7e8e2"></i> <span style="color:#fc911e"> @t_hlb </span>](https://twitter.com/t_hlb)
+
+[<i class="fas fa-blog" style="color:#fc911e"></i><span style="color:#e7e8e2"> bangtedy.github.io</span>](https://bangtedy.github.io)
+
