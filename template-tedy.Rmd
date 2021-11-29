@@ -2,6 +2,7 @@
 title: Talk template
 output:
   xaringan::moon_reader:
+    chakra: libs/remark-latest.min.js
   #  self_contained: TRUE
     includes:
       in_header: conf/style-header.html
