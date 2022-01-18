@@ -48,6 +48,22 @@ xaringanExtra::use_tile_view()
 ```{r xaringan-scribble, echo=FALSE}
 xaringanExtra::use_scribble()
 ```
+
+```{r, echo = FALSE}
+# google scholar metadata
+library(metathis)
+
+if (knitr::is_html_output()) {
+  meta() |> 
+    meta_google_scholar(
+      title = "Manajemen Pemasaran",
+      author = "Tedy Herlambang",
+      publication_date = "2021",
+      isbn = ""
+    ) 
+}
+```
+
 layout: true
 
 <div class="my-footer"><span>bangtedy.github.io</span></div>
